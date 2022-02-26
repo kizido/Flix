@@ -20,7 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="http://g.recordit.co/sA8qfbakZ0.gif" width=250><br>
 
 ### Notes
 I had a lot of trouble making an outlet to connect the ViewController to the Swift file. After a couple hours of trying various things and being frustrated, I closed XCode and reopened it, and it finally worked as intended.
